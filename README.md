@@ -16,8 +16,7 @@ To ensure real-time responsiveness on edge devices, the following optimizations 
 ---
 
 ### 🛠️ Key Features
-- **AQI Monitoring:** Real-time integration with air quality sensors.
-- **Personnel Tracking:** CV-based identification to ensure traffic police are within safe zones or wearing protective gear.
+- **Personnel Tracking:** CV-based identification to ensure traffic police are within safe zones.
 - **Automated Alerts:** Low-latency notification system triggered by environmental thresholds.
 
 ---
