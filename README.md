@@ -32,7 +32,7 @@ To ensure real-time responsiveness on edge devices, the following optimizations 
 ### ⚙️ Installation & Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/ConfidentialDC/Netraflow.git](https://github.com/ConfidentialDC/Netraflow.git)
+git clone https://github.com/ConfidentialDC/Netraflow.git
 
 # Run the system
 streamlit run overview.py
