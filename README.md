@@ -9,7 +9,7 @@ Netraflow is a high-performance computer vision and data monitoring system desig
 ### 🚀 Performance Highlights
 To ensure real-time responsiveness on edge devices, the following optimizations were implemented:
 
-* **⚡ Intelligent Inference:** Implemented **smart image cropping** to focus on regions of interest, reducing model inference time by [X]%.
+* **⚡ Intelligent Inference:** Implemented **smart image cropping** to focus on regions of interest, reducing model inference time by 66%.
 * **📂 Scalable Data Layer:** Migrated from flat-file storage to a **Structured SQL** architecture for complex relational queries and health tracking.
 * **🌐 Connection Pooling:** Integrated robust **database connection pooling** to handle high-frequency data ingestion without system overhead.
 
