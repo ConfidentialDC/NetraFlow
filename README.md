@@ -24,7 +24,7 @@ To ensure real-time responsiveness on edge devices, the following optimizations 
 ### 🧰 Tech Stack
 - **Backend:** Python, FastAPI
 - **Database:** PostgreSQL (with Connection Pooling)
-- **AI/CV:** OpenCV, LangChain (for automated reporting), [Add AI Models used]
+- **AI/CV:** OpenCV, LangChain (for automated reporting), Groq
 - **Deployment:** Docker, AWS
 
 ---
